@@ -1,9 +1,9 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <user>
-  <fullName>admin</fullName>
+  <fullName>radu</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwnRpnQb/Q2WBT4fcwVig7mS9Bp5Wm2egmjXVu2n6hJ4pNV4vdaDYWQIGrYz1Lo3024c6RImFoJKGQAaCWDN1QLg==}</apiToken>
+      <apiToken>{AQAAABAAAAAwsBhg6OMgPRdFPwBNR86muvgF//cwJUdlq77AWmK3y8oEaFKSrm4Ymvyvq5J2NJMn4oqGjLcYGxU2c4hwJEIF4A==}</apiToken>
     </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
@@ -23,7 +23,7 @@
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$oUDMWOM9ZfZgpr1/iyeza.yQPwW88eCEZVciHcKSoyiqzSqtsC3SC</passwordHash>
+      <passwordHash>#jbcrypt:$2a$10$9H0imebMWRMZRHQ0o62s7uI6pAHFZac0qqb1cyEGN.AplO96i6baa</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
   </properties>
 </user>
